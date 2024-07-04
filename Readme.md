@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Дарья Грибова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2544073).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб] (https://htmlacademy.ru/profile/id166797).
 
 ---
 
