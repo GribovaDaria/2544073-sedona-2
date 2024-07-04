@@ -2,7 +2,7 @@
 
 * Студент: [Дарья Грибова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2544073).
 * Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
-
+* Сайт: [Проект_Д.Грибова](https://gribovadaria.github.io/2544073-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
